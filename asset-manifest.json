@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PicAuth/static/css/main.73805395.css",
-    "main.js": "/PicAuth/static/js/main.52fe73d3.js",
+    "main.js": "/PicAuth/static/js/main.84912c78.js",
     "static/js/787.97270632.chunk.js": "/PicAuth/static/js/787.97270632.chunk.js",
     "index.html": "/PicAuth/index.html",
     "main.73805395.css.map": "/PicAuth/static/css/main.73805395.css.map",
-    "main.52fe73d3.js.map": "/PicAuth/static/js/main.52fe73d3.js.map",
+    "main.84912c78.js.map": "/PicAuth/static/js/main.84912c78.js.map",
     "787.97270632.chunk.js.map": "/PicAuth/static/js/787.97270632.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73805395.css",
-    "static/js/main.52fe73d3.js"
+    "static/js/main.84912c78.js"
   ]
 }
