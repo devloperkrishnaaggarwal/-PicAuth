@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+.imgCards {
+  @apply w-9/12 sm:w-7/12 md:w-5/12 lg:w-1/5 rounded-3xl hover:scale-110 hover:duration-700 hover:cursor-pointer shadow-md shadow-slate-200 m-4;
+}
+@tailwind utilities;
