@@ -2,6 +2,12 @@
 # PicAuth
 
 PicAuth is a Website Project where we mention photos and present them differently as usual websites with their Authors name.
+
+# How It works
+
+It is a website that have gallery of some images. Everytime when you click on any image your page redirect to a new page and there's author name and their work.
+
+
 ## Tech Stack
 
 **Client:** React, TailwindCSS, Flowbite 
