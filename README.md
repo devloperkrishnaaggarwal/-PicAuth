@@ -7,6 +7,10 @@ PicAuth is a Website Project where we mention photos and present them differentl
 
 It is a website that have gallery of some images. Everytime when you click on any image your page redirect to a new page where there's author name and their work.
 
+## Live Website
+
+https://devloperkrishnaaggarwal.github.io/PicAuth/
+
 
 ## Tech Stack
 
